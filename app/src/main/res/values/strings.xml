@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Susrut</string>
+    <string name="title">Susrut Herbs</string>
+    <string name="text_title">About Susrut Herbs</string>
+    <string name="text_content">Susrut Herbs is a one stop shop for all authentic herbs and spices and herbal
+        Ayurvedic preparations available in Kerala. Kerala is known for its biodiversity of herbs and spices the world over.
+        Our shop provides almost all such available herbs and spices at a reasonable price.
+        Our products are completely organic and are collected by tribals belonging to registered tribal societies who are custodians of generations of authentic knowledge in traditional medicines.
+        The testimony to our service lies in the fact that we have been successfully catering to the demands of people from all over the world for over 30 years. </string>
+    <string name="contact">Contact Us</string>
+    <string name="phone">+919895028355</string>
+    <string name="email">susrutherbs@gmail.com</string>
+    <string name="address">Pulimoodu, Thiruvananthapuram, Kerala 695001</string>
+    <string name="business_hours">Business Hours are 9.00 a.m. to 9.00 p.m. on weekdays. Sundays Closed. </string>
+</resources>
